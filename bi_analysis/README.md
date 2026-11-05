@@ -54,6 +54,8 @@ GMV не является прибылью или признанной выру�
 - Связь между задержками и оценками не доказывает причинно-следственный эффект.
 
 ## Дашборд
+<img width="1405" height="813" alt="Снимок экрана 2026-11-05 в 19 32 48" src="https://github.com/user-attachments/assets/1f51a656-a0c1-41e0-bf91-d282907c817f" />
+
 
 **Ссылка:** https://datalens.yandex/dowaqc5l3yvkw?_share_link=public
 
