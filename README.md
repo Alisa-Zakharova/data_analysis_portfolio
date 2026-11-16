@@ -15,27 +15,15 @@ Currently, I'm developing my skills in SQL, Python, statistics and data visualiz
 - Business process and Supply Chain Analytics
 - Data-driven decision-making
 
-### Tech Stack
+## Описание проектов
 
-**Programming & Data:**
-- SQL, Python
-- pandas, NumPy
+| Название | Сфера | Основные этапы | Стек |
+|---|---|---|---|
+| [Интерпретация результатов A/B-теста](https://github.com/Alisa-Zakharova/data_analysis_portfolio/tree/main/a_b%20test%20interpretation%281%29) | A/B-тестирование | Задача - провести оценку результатов А/В теста, используя данные с действиями пользователей, а также ТЗ | Python, Pandas, NumPy, Matplotlib, Plotly ,Seaborn, Scipy |
+| [BI-анализ](https://github.com/Alisa-Zakharova/data_analysis_portfolio/tree/main/bi_analysis) | BI и аналитика данных e-com компании|  |  |
+| [Анализ данных джобборда через API](https://github.com/Alisa-Zakharova/data_analysis_portfolio/tree/main/Анализ%20данных%20джобборда%20через%20API) | Рынок вакансий |   |   |
+| [Анализ пользовательской воронки интернет-магазина](https://github.com/Alisa-Zakharova/data_analysis_portfolio/tree/main/Анализ%20пользовательской%20воронки%20интернет-магазина) | Электронная коммерция и продуктовая аналитика |   |   |
 
-**Data Analysis:**
-- Exploratory Data Analysis (EDA)
-- Data Cleaning and Transformation
-- Statistical Analysis
-- Business Metrics and KPI Analysis
-- A/B Testing fundamentals
-
-**Visualization & BI:**
-- Yandex DataLens
-- Tableau
-- Excel (Pivot Tables, Power Query)
-
-**Tools:**
-- Git, GitHub
-- Jupyter Notebook
 
 ### Current Focus
 - Building practical data analytics projects
